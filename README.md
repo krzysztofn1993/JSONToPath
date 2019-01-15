@@ -1,6 +1,6 @@
 # JSONToPath
 
-**Program that creates directory structure from JSON.** Program has no specific applications. The main reason for its creation is udnerstanding how recursive function works and training writing php scripts. 
+**Program that creates directory structure from JSON.** Program has no specific applications. The main reason for its creation is udnerstanding how recursive function works and training writing php scripts. Program loops through all nested associative arrays.
 
 Example of delivered JSON file and created structure
 ```
