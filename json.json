@@ -1,0 +1,190 @@
+{
+	"path": "C:\\xampp\\htdocs\\Projects\\test",
+	"type": "dir",
+	"components": [{
+		"path": "C:\\xampp\\htdocs\\Projects\\test\/.git",
+		"type": "dir",
+		"components": [{
+			"path": "C:\\xampp\\htdocs\\Projects\\test\/.git\/COMMIT_EDITMSG",
+			"type": "file"
+		}, {
+			"path": "C:\\xampp\\htdocs\\Projects\\test\/.git\/HEAD",
+			"type": "file"
+		}, {
+			"path": "C:\\xampp\\htdocs\\Projects\\test\/.git\/config",
+			"type": "file"
+		}, {
+			"path": "C:\\xampp\\htdocs\\Projects\\test\/.git\/description",
+			"type": "file"
+		}, {
+			"path": "C:\\xampp\\htdocs\\Projects\\test\/.git\/hooks",
+			"type": "dir",
+			"components": [{
+				"path": "C:\\xampp\\htdocs\\Projects\\test\/.git\/hooks\/applypatch-msg.sample",
+				"type": "file"
+			}, {
+				"path": "C:\\xampp\\htdocs\\Projects\\test\/.git\/hooks\/commit-msg.sample",
+				"type": "file"
+			}, {
+				"path": "C:\\xampp\\htdocs\\Projects\\test\/.git\/hooks\/fsmonitor-watchman.sample",
+				"type": "file"
+			}, {
+				"path": "C:\\xampp\\htdocs\\Projects\\test\/.git\/hooks\/post-update.sample",
+				"type": "file"
+			}, {
+				"path": "C:\\xampp\\htdocs\\Projects\\test\/.git\/hooks\/pre-applypatch.sample",
+				"type": "file"
+			}, {
+				"path": "C:\\xampp\\htdocs\\Projects\\test\/.git\/hooks\/pre-commit.sample",
+				"type": "file"
+			}, {
+				"path": "C:\\xampp\\htdocs\\Projects\\test\/.git\/hooks\/pre-push.sample",
+				"type": "file"
+			}, {
+				"path": "C:\\xampp\\htdocs\\Projects\\test\/.git\/hooks\/pre-rebase.sample",
+				"type": "file"
+			}, {
+				"path": "C:\\xampp\\htdocs\\Projects\\test\/.git\/hooks\/pre-receive.sample",
+				"type": "file"
+			}, {
+				"path": "C:\\xampp\\htdocs\\Projects\\test\/.git\/hooks\/prepare-commit-msg.sample",
+				"type": "file"
+			}, {
+				"path": "C:\\xampp\\htdocs\\Projects\\test\/.git\/hooks\/update.sample",
+				"type": "file"
+			}]
+		}, {
+			"path": "C:\\xampp\\htdocs\\Projects\\test\/.git\/index",
+			"type": "file"
+		}, {
+			"path": "C:\\xampp\\htdocs\\Projects\\test\/.git\/info",
+			"type": "dir",
+			"components": [{
+				"path": "C:\\xampp\\htdocs\\Projects\\test\/.git\/info\/exclude",
+				"type": "file"
+			}]
+		}, {
+			"path": "C:\\xampp\\htdocs\\Projects\\test\/.git\/logs",
+			"type": "dir",
+			"components": [{
+				"path": "C:\\xampp\\htdocs\\Projects\\test\/.git\/logs\/HEAD",
+				"type": "file"
+			}, {
+				"path": "C:\\xampp\\htdocs\\Projects\\test\/.git\/logs\/refs",
+				"type": "dir",
+				"components": [{
+					"path": "C:\\xampp\\htdocs\\Projects\\test\/.git\/logs\/refs\/heads",
+					"type": "dir",
+					"components": [{
+						"path": "C:\\xampp\\htdocs\\Projects\\test\/.git\/logs\/refs\/heads\/master",
+						"type": "file"
+					}]
+				}, {
+					"path": "C:\\xampp\\htdocs\\Projects\\test\/.git\/logs\/refs\/remotes",
+					"type": "dir",
+					"components": [{
+						"path": "C:\\xampp\\htdocs\\Projects\\test\/.git\/logs\/refs\/remotes\/origin",
+						"type": "dir",
+						"components": [{
+							"path": "C:\\xampp\\htdocs\\Projects\\test\/.git\/logs\/refs\/remotes\/origin\/master",
+							"type": "file"
+						}]
+					}]
+				}]
+			}]
+		}, {
+			"path": "C:\\xampp\\htdocs\\Projects\\test\/.git\/objects",
+			"type": "dir",
+			"components": [{
+				"path": "C:\\xampp\\htdocs\\Projects\\test\/.git\/objects\/0c",
+				"type": "dir",
+				"components": [{
+					"path": "C:\\xampp\\htdocs\\Projects\\test\/.git\/objects\/0c\/3f81935ba8ab302ad531bc9d1e8841590f3ada",
+					"type": "file"
+				}]
+			}, {
+				"path": "C:\\xampp\\htdocs\\Projects\\test\/.git\/objects\/61",
+				"type": "dir",
+				"components": [{
+					"path": "C:\\xampp\\htdocs\\Projects\\test\/.git\/objects\/61\/2eaac4685ea610714cb7d1f919b3f954599169",
+					"type": "file"
+				}]
+			}, {
+				"path": "C:\\xampp\\htdocs\\Projects\\test\/.git\/objects\/87",
+				"type": "dir",
+				"components": [{
+					"path": "C:\\xampp\\htdocs\\Projects\\test\/.git\/objects\/87\/6a1499c09dc083612f43c53c0ae71b9c30c5b1",
+					"type": "file"
+				}]
+			}, {
+				"path": "C:\\xampp\\htdocs\\Projects\\test\/.git\/objects\/90",
+				"type": "dir",
+				"components": [{
+					"path": "C:\\xampp\\htdocs\\Projects\\test\/.git\/objects\/90\/44ad63c61a2c99004576c1cd0ef89c4d75cbb7",
+					"type": "file"
+				}]
+			}, {
+				"path": "C:\\xampp\\htdocs\\Projects\\test\/.git\/objects\/db",
+				"type": "dir",
+				"components": [{
+					"path": "C:\\xampp\\htdocs\\Projects\\test\/.git\/objects\/db\/a218de52cca6cb08777521d9356b2dd3756891",
+					"type": "file"
+				}]
+			}, {
+				"path": "C:\\xampp\\htdocs\\Projects\\test\/.git\/objects\/e4",
+				"type": "dir",
+				"components": [{
+					"path": "C:\\xampp\\htdocs\\Projects\\test\/.git\/objects\/e4\/9afefca3d229eefc9639837587e10461a87290",
+					"type": "file"
+				}]
+			}, {
+				"path": "C:\\xampp\\htdocs\\Projects\\test\/.git\/objects\/info",
+				"type": "dir",
+				"components": []
+			}, {
+				"path": "C:\\xampp\\htdocs\\Projects\\test\/.git\/objects\/pack",
+				"type": "dir",
+				"components": []
+			}]
+		}, {
+			"path": "C:\\xampp\\htdocs\\Projects\\test\/.git\/refs",
+			"type": "dir",
+			"components": [{
+				"path": "C:\\xampp\\htdocs\\Projects\\test\/.git\/refs\/heads",
+				"type": "dir",
+				"components": [{
+					"path": "C:\\xampp\\htdocs\\Projects\\test\/.git\/refs\/heads\/master",
+					"type": "file"
+				}]
+			}, {
+				"path": "C:\\xampp\\htdocs\\Projects\\test\/.git\/refs\/remotes",
+				"type": "dir",
+				"components": [{
+					"path": "C:\\xampp\\htdocs\\Projects\\test\/.git\/refs\/remotes\/origin",
+					"type": "dir",
+					"components": [{
+						"path": "C:\\xampp\\htdocs\\Projects\\test\/.git\/refs\/remotes\/origin\/master",
+						"type": "file"
+					}]
+				}]
+			}, {
+				"path": "C:\\xampp\\htdocs\\Projects\\test\/.git\/refs\/tags",
+				"type": "dir",
+				"components": []
+			}]
+		}]
+	}, {
+		"path": "C:\\xampp\\htdocs\\Projects\\test\/.vscode",
+		"type": "dir",
+		"components": [{
+			"path": "C:\\xampp\\htdocs\\Projects\\test\/.vscode\/launch.json",
+			"type": "file"
+		}]
+	}, {
+		"path": "C:\\xampp\\htdocs\\Projects\\test\/index.php",
+		"type": "file"
+	}, {
+		"path": "C:\\xampp\\htdocs\\Projects\\test\/test.code-workspace",
+		"type": "file"
+	}]
+}
